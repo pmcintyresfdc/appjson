@@ -1,0 +1,7 @@
+{
+  "name": "Talking Falcon One",
+  "description": "",
+  "addons": [
+    "heroku-redis"
+  ]
+}
